@@ -5,8 +5,8 @@ Anti-aliasing filter: Process of improving the image quality when applying the d
 
 Input image:
 
-![]('input.png')
+![](input.png)
 
 Output image:
 
-![]('output.png')
+![](output.png)
